@@ -7,7 +7,7 @@
 <details>
   <summary>Table Of Contents</summary>
 
-  - <a href="https://github.com/Melanated-Cyber-Kings/GCP-Armageddon/tree/main?tab=readme-ov-file#-about-the-project">Description</a>
+  - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-description">Description</a>
   - <a href="https://github.com/Melanated-Cyber-Kings/GCP-Armageddon/tree/main?tab=readme-ov-file#-tools--technologies-used">Tools & Technologies Used</a>
   - <a href="https://github.com/Melanated-Cyber-Kings/GCP-Armageddon/tree/main?tab=readme-ov-file#-about-the-project">GCP Console Management</a>
 
