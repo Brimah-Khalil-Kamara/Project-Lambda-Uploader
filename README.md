@@ -36,6 +36,8 @@ We’ll keep it simple and functional so you can deploy it easily.
 
 <br>
 
+<br>
+
 <h2 align="center">🛠 Tools & Technologies Used</h2>
 
 <br>
