@@ -28,6 +28,9 @@ This project demonstrates an event-driven AWS architecture. It deploys a simple 
 
 <br>
 
+The Terraform files will define the infrastructure, while the Python file will define the Lambda function code.
+
+<br>
 We’ll keep it simple and functional so you can deploy it easily.
 
 
