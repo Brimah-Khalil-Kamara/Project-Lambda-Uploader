@@ -66,12 +66,29 @@ Create a blank repository name it whatever you want and check the readme box and
 
 <br>
 
-<h2 align="center">🗒️Step 2 Connect Local Project With Git Repository</h2>
+<h2 align="center">🗒️ Step 2 Connect Local Project With Git Repository</h2>
 
 <br>
 
-Create a blank repository name it whatever you want and check the readme box and select create. This will allow you to connect the local project to Github.
+In some cases you might want to clone the repository created. In my case I cloned using 
 
+```bash
+git clone git@github.com:Brimah-Khalil-Kamara/Project-Lambda-Uploader.git
+```
+
+When you clone a GitHub repo, Git automatically creates origin for you and sets it to the URL you cloned from. In other cases you might connect yor local project if youve been working locally with your remote git repository. 
+
+In this case you would using gitbash in the right folder project path use the git init command. 
+
+```bash
+git init
+```
+
+What this does is it initialises an empty repository. To connect it to remote to push the existing repository the git remote add origin command is used 
+
+```bash
+git remote add origin git@github.com:Brimah-Khalil-Kamara/Project-Lambda-Uploader.git
+```
 
 
 <br>
