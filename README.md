@@ -13,9 +13,6 @@
   - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Step 2 Connect Local Project With Git Repository</a>
 
 
-  https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader/blob/main/README.md#%EF%B8%8F-step-1-create-repository
-
-
   </details>
 
 
@@ -66,6 +63,16 @@ Create a blank repository name it whatever you want and check the readme box and
 
 
 <br>
+
+<br>
+
+<h2 align="center">🗒️Step 2 Connect Local Project With Git Repository</h2>
+
+<br>
+
+Create a blank repository name it whatever you want and check the readme box and select create. This will allow you to connect the local project to Github.
+
+
 
 <br>
 
