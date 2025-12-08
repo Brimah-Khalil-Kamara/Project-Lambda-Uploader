@@ -80,11 +80,17 @@ When you clone a GitHub repo, Git automatically creates origin for you and sets 
 
 In this case you would using gitbash in the right folder project path use the git init command. 
 
+<br>
+
 ```bash
 git init
 ```
 
+<br>
+
 What this does is it initialises an empty repository. To connect it to remote to push the existing repository the git remote add origin command is used 
+
+<br>
 
 ```bash
 git remote add origin git@github.com:Brimah-Khalil-Kamara/Project-Lambda-Uploader.git
