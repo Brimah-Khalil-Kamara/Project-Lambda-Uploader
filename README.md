@@ -9,7 +9,11 @@
 
   - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-description">Description</a>
   - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Tools & Technologies Used</a>
-  - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Step 1 Create Repository</a>
+  - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#%EF%B8%8F-step-1-create-repository">Step 1 Create Repository</a>
+  - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Step 2 Connect Local Project With Git Repository</a>
+
+
+  https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader/blob/main/README.md#%EF%B8%8F-step-1-create-repository
 
 
   </details>
