@@ -9,6 +9,8 @@
 
   - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-description">Description</a>
   - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Tools & Technologies Used</a>
+  - <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader?tab=readme-ov-file#-tools--technologies-used">Step 1 Create Repository</a>
+
 
   </details>
 
@@ -46,6 +48,20 @@ We’ll keep it simple and functional so you can deploy it easily.
 - AWS  (_VPC, Subnets, NAT Gateway, Router, and Storage Bucket_)  
 - GitHub  (_Source control for Terraform scripts) 
 - Visual Studio Code
+
+<br>
+
+<br>
+
+<h2 align="center">🗒️ Step 1 Create Repository</h2>
+
+<br>
+
+Create a blank repository name it whatever you want and check the readme box and select create. This will allow you to connect the local project to Github.
+
+
+
+<br>
 
 <br>
 
