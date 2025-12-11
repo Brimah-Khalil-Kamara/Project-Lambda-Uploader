@@ -38,6 +38,8 @@ resource "aws_instance" "web" {
   security_groups = [aws_security_group.web_sg.name]
   associate_public_ip_address = true
   iam_instance_profile   = aws_iam_instance_profile.ec2_instance_profile.name
+
+  key_name = aws_key_pair.ssh-key.key_name
   
   #user_data = file("user_data.sh")
   user_data = file("${path.module}/user_data.sh")
