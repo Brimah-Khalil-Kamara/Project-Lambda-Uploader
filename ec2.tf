@@ -35,7 +35,6 @@ resource "aws_iam_instance_profile" "ec2_instance_profile" {
 resource "aws_instance" "web" {
   ami           = "ami-0fa3fe0fa7920f68e" # Amazon Linux 2 (us-east-1)
   instance_type = var.instance_type
-  key_name      = var.ec2_key_name
   security_groups = [aws_security_group.web_sg.name]
   associate_public_ip_address = true
   iam_instance_profile   = aws_iam_instance_profile.ec2_instance_profile.name
